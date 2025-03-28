@@ -1,1 +1,1 @@
-# sample-final-projects
+# samples-final-projects
